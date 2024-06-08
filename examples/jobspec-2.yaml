@@ -1,0 +1,18 @@
+version: 9999
+resources:
+- type: cluster
+  count: 1
+  with:
+  - type: slot
+    count: 1
+    label: default
+    with:
+    - type: container
+      count: 2
+
+attributes:
+tasks:
+- command: ["match"]
+  slot: default
+  count: 
+    per_slot: 1

@@ -1,0 +1,4 @@
+github.com/converged-computing/jsongraph-go v0.0.0-20231221142338-90aad45775bb h1:eKXCYq0UUI8LF0vgKC6QHF8rxXscu4XxkzxV/a3rzdc=
+github.com/converged-computing/jsongraph-go v0.0.0-20231221142338-90aad45775bb/go.mod h1:+DhVyLXGVfBsfta4185jd33jqa94inshCcdvsXK2Irk=
+github.com/flux-framework/fluxion-go v0.35.0 h1:TSEItgb5MsCJltklIgqRIUUoe94tSBILZW753/wE8oY=
+github.com/flux-framework/fluxion-go v0.35.0/go.mod h1:jA5+kOSLxchFzixzYEvMAGjkXB5yszO/HxUwdhX/5/U=
